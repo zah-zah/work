@@ -28,14 +28,14 @@
             <properties>
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
                 <sonar.host.url>
-                  http://locahhost:9001
-                </sonar.host.url>
+                  http://locahhost:9000
+                 </sonar.host.url>
                 <sonar.tokens>
-                sqp_6a2f27b135731efcc14325133db383b075390c23
+                sqp_aea8669bb7004a071ad1bedfdd1917c8a0d6fd04
                 <sonar.tokens>
                 <sonar.login>admin</sonar.login>
-                <sonar.password>raju@4207</sonar.password>
-                </properties>
+                <sonar.password>raju</sonar.password>
+              </properties>
         </profile>
      </profiles>
 <dependencies>
