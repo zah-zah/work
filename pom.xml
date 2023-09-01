@@ -32,7 +32,7 @@
                  </sonar.host.url>
                 <sonar.tokens>
                 sqp_aea8669bb7004a071ad1bedfdd1917c8a0d6fd04
-                <sonar.tokens>
+                </sonar.tokens>
                 <!--<sonar.login>admin</sonar.login>
                 <sonar.password>raju</sonar.password>-->
               </properties>
